@@ -1,0 +1,15 @@
+{
+    "name": "tian/orm",
+    "authors": [
+        {
+            "name": "wangtianlin",
+            "email": "501824056@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tian\\Orm\\": "src"
+        }
+    },
+    "require": {}
+}
